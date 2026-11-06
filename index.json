@@ -1,4 +1,5 @@
 {
+  "name": "MediaBox Portal",
   "type": "pages",
   "background": "https://i.postimg.cc/9QY43ZRW/background.jpg",
   "template": {
@@ -183,7 +184,7 @@
     {
       "id": "akter-black",
       "layout": "3.0188,4.73,1.0125,0.9",
-      "image": "https://ваш-сайт/icons/akter-black.png",
+      "image": "https://i.postimg.cc/TwF1jcS7/Akter-Black.png",
       "action": "link:https://akter.black"
     },
     {
